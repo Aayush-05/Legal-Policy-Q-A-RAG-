@@ -29,7 +29,6 @@ A Retrieval-Augmented Generation (RAG) pipeline for answering legal questions us
    ```bash
    streamlit run ui.py
    ```
-3. **Open [http://localhost:8501](http://localhost:8501) in your browser.**
 
 ## Deployment
 1. **Choose a server or cloud platform** (AWS EC2, GCP, Azure, DigitalOcean, Render, Railway, Heroku, etc.)
