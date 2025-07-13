@@ -7,4 +7,5 @@ python-dotenv
 requests
 streamlit
 faiss-cpu
-langchain-huggingface 
+langchain-huggingface
+langchain-community
