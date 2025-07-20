@@ -1,6 +1,8 @@
 # Legal Policy Q&A (RAG)
 
 A Retrieval-Augmented Generation (RAG) pipeline for answering legal questions using company policy PDFs (Amazon, Instagram, Meta, Bennett University, etc.).
+<img width="1598" height="961" alt="Screenshot 2025-07-20 at 5 56 56 PM" src="https://github.com/user-attachments/assets/57098337-5bd2-4650-a666-dfbed887456b" />
+
 
 ## Features
 - Loads and vectorizes PDFs from `documents/` using LangChain, FAISS, and HuggingFace sentence embeddings
